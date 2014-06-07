@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-test repo for coursera data science course from John Hopkins
+repo for coursera data science courses from John Hopkins
